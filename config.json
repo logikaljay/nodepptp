@@ -1,0 +1,10 @@
+{
+	"bin": {
+		"ifconfig": "/sbin/ifconfig",
+		"pptpd": "/etc/init.d/pptpd"
+	},
+	"path": {
+		"pptpd": "/etc/pptpd.conf",
+		"users": "/etc/ppp/chap-secrets"
+	}
+}

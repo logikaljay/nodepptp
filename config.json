@@ -5,6 +5,7 @@
 	},
 	"path": {
 		"pptpd": "/etc/pptpd.conf",
+		"options": "/etc/ppp/options.pptpd",
 		"users": "/etc/ppp/chap-secrets"
 	}
 }

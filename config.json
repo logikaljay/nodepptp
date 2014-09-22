@@ -1,11 +1,11 @@
 {
-	"bin": {
-		"ifconfig": "/sbin/ifconfig",
-		"pptpd": "/etc/init.d/pptpd"
-	},
-	"path": {
-		"pptpd": "/etc/pptpd.conf",
-		"options": "/etc/ppp/options.pptpd",
-		"users": "/etc/ppp/chap-secrets"
-	}
+    "bin": {
+        "ifconfig": "/sbin/ifconfig",
+        "pptpd": "/etc/init.d/pptpd"
+    },
+    "path": {
+        "pptpd": "/etc/pptpd.conf",
+        "options": "/etc/ppp/options.pptpd",
+        "users": "/etc/ppp/chap-secrets"
+    }
 }

@@ -1,0 +1,22 @@
+{
+  "name": "nodepptp",
+  "version": "1.0.0",
+  "description": "PPTP Management library for Node",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/logikaljay/nodepptp.git"
+  },
+  "keywords": [
+    "node",
+    "pptp",
+    "pptpd",
+    "ppp",
+    "vpn",
+    "manage"
+  ],
+  "author": "Jay Baker",
+  "license": "GPLv2",
+  "readmeFilename": "README.md",
+  "gitHead": "22145413d1e6397598383625bc7129f31c131c5f"
+}
